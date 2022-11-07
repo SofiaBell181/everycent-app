@@ -1,0 +1,22 @@
+body {
+    font-family: 'PT Sans Caption', sans-serif !important;
+    background: #FFFFFF !important;
+        /* background-color: rgba(255,255,255,0.5) !important; */
+}
+
+/* #safari {
+    background-color: rgba(255,255,255,0.5) !important;
+    opacity: 1;
+} */
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .fp-warning, .fp-watermark {
+    display: none;
+  }
+  
+  
+  

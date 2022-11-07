@@ -82,7 +82,7 @@ export default function HeaderCent() {
 
                             </div>
 
-                            <a className='block-store' href="#" ></a>
+                            <a className='block-store' href="#store" > </a>
 
                             <div className='block-par'>
                                 <p data-aos="fade-up"

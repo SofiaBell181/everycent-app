@@ -26,14 +26,14 @@ export default function FooterCent() {
                 </div>
 
                 <div className='footer-link' data-aos="zoom-in-left" data-aos-duration="900">
-                    <a href="" ><img src={appStore} alt="app Store"  /></a>
-                    <a href="" className='link-mainPage'>Back to main page</a>
+                    <a href="#store" ><img src={appStore} alt="app Store"  /></a>
+                    <a href="#main" className='link-mainPage'>Back to main page</a>
                 </div>
 
                 <div className='footer-logo'   data-aos="zoom-in-right" data-aos-duration="900">
                 <img src={Logo} className="logo-footer" alt="logo" width='50' height="50"/>
                 <p className='name-app__footer'>Everycent</p>
-                <a className='created-link' href='#'>Created by Sophie</a>
+                <a className='created-link' href='https://frontend-dev-sofiabell.glitch.me/'>Created by Sophie</a>
                 </div>
             </div>
         </div>
